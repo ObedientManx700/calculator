@@ -1,17 +1,18 @@
 def add(x, y):
-    return x + y
+    # todo
     pass
 
 def subtract(x, y):
     return x-y
     pass
+    #dddd
 
 def multiply(x, y):
-    return x * y
+    # todo
     pass
 
 def divide(x, y):
-    return x / y
+    # todo
     pass
 
 print("Select operation.")
@@ -52,3 +53,4 @@ while True:
     next_calculation = input("Continue calculation? (y/n): ")
     if next_calculation == "n":
         break
+
